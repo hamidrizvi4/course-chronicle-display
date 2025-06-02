@@ -1,4 +1,3 @@
-
 import Header from "../components/Header";
 import CourseCard from "../components/CourseCard";
 import SkillsSection from "../components/SkillsSection";
@@ -7,7 +6,7 @@ import { BookText, Mail, Phone, MapPin } from "lucide-react";
 const Index = () => {
   const courses = [
     {
-      title: "Computer Science Fundamentals",
+      title: "MG-GY 8203A Project Management",
       institution: "New York University",
       duration: "Sep 2020 - Dec 2020",
       description: "Comprehensive introduction to computer science covering programming fundamentals, data structures, and algorithmic thinking. This course laid the foundation for my technical journey.",
