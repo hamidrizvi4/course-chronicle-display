@@ -120,7 +120,7 @@ const Index = () => {
         </div>
       </section>
 
-      {/* Courses Section */}
+      {/* Courses Section
       <section id="courses" className="py-16 px-6">
         <div className="container mx-auto">
           <div className="text-center mb-12">
@@ -136,14 +136,14 @@ const Index = () => {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Footer */}
-      <footer className="bg-white/10 backdrop-blur-md text-gray-600 py-8 px-6 border-t border-white/20">
+      {/* <footer className="bg-white/10 backdrop-blur-md text-gray-600 py-8 px-6 border-t border-white/20">
         <div className="container mx-auto text-center">
           <p className="font-light">&copy; 2024 NYU Learning Journey. Built with passion for education and growth.</p>
         </div>
-      </footer>
+      </footer> */}
     </div>
   );
 };
