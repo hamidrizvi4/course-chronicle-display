@@ -50,7 +50,7 @@ const Index = () => {
     {
       title: "MG-GY 6073A Marketing",
       institution: "New York University",
-      duration: "Feb 2025 - May 2025",
+      duration: "Jan 2025 - May 2025",
       description: "Explored marketing strategy through 16 simulations, mastering market analysis, customer segmentation, and the 4Ps.",
       skills: ["Data Analysis for Market Insights", "Ethical Marketing and Sustainability", "Decision-Making", "Critical Thinking", "Team Collaboration"],
       highlights: [
