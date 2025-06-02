@@ -18,12 +18,6 @@ const Header = () => {
             <a href="#courses" className="text-gray-700 hover:text-gray-900 transition-colors font-light">
               Courses
             </a>
-            <a href="#skills" className="text-gray-700 hover:text-gray-900 transition-colors font-light">
-              Skills
-            </a>
-            <a href="#contact" className="text-gray-700 hover:text-gray-900 transition-colors font-light">
-              Contact
-            </a>
           </nav>
         </div>
       </div>
