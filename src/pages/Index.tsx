@@ -8,84 +8,84 @@ const Index = () => {
     {
       title: "MG-GY 8203A Project Management",
       institution: "New York University",
-      duration: "Sep 2020 - Dec 2020",
-      description: "Comprehensive introduction to computer science covering programming fundamentals, data structures, and algorithmic thinking. This course laid the foundation for my technical journey.",
-      skills: ["Python Programming", "Data Structures", "Algorithms", "Problem Solving", "Object-Oriented Programming"],
+      duration: "Jan 2025 - May 2025",
+      description: "Applied Agile and traditional methodologies to lead simulated projects, enhancing skills in stakeholder management and risk assessment.",
+      skills: ["Project Planning and Execution", "Risk and Change Management", "Agile Project Management(Scrum, Jira)", "Stakeholder Management", "Documentation"],
       highlights: [
-        "Built a complete student management system using Python",
-        "Implemented sorting and searching algorithms from scratch",
-        "Completed 50+ coding challenges and projects",
-        "Achieved top 5% in final examinations"
+        "Led a team of 6 developers on a major project",
+        "Master Agile and traditional project management frameworks to execute simulated projects with precision.",
+        "Gain proficiency in applying Agile and Waterfall methodologies to manage complex simulated projects using Gantt charts and Work Breakdown Structures (WBS)",
+        "Build expertise in risk analysis and stakeholder engagement through Project Initiation Documentation (PID) and technical frameworks"
       ],
       category: "Computer Science"
     },
     {
-      title: "Web Development Bootcamp",
+      title: "MG-GY 6023A Economics & Strategy",
       institution: "New York University",
-      duration: "Jan 2021 - Jun 2021",
-      description: "Intensive full-stack web development program covering modern web technologies, responsive design, and deployment strategies. Focused on practical, industry-relevant skills.",
-      skills: ["HTML5", "CSS3", "JavaScript", "React", "Node.js", "MongoDB", "Git"],
+      duration: "Sept 2024 - Dec 2024",
+      description: "Analyzed industry dynamics and business models, including a research project on consumer electronics in the wellness market.",
+      skills: ["Industry Analysis", "Strategic Thinking", "Critical Thinking", "Research and Synthesis:"],
       highlights: [
-        "Developed 5 full-stack web applications",
-        "Collaborated on team projects using Agile methodology",
-        "Deployed applications to cloud platforms",
-        "Mentored junior students in the program"
+        "Analyze industry dynamics and competitive landscapes, focusing on economic trends in the $1.8T wellness market.",
+        "Develop strategic business models by evaluating macro-environmental factors and their impact on tech industries",
+        "Conduct in-depth research on consumer electronics, as demonstrated by a project on wellness market innovations",
+        "Synthesize findings to propose actionable strategies, enhancing critical thinking for market-driven decision-making"
       ],
       category: "Computer Science"
     },
     {
-      title: "Advanced Mathematics for Computing",
+      title: "MG-GY 6183A Communication for Tech Managers",
       institution: "New York University",
-      duration: "Sep 2021 - Dec 2021",
-      description: "Advanced mathematical concepts essential for computer science including discrete mathematics, linear algebra, and calculus applications in computing.",
-      skills: ["Discrete Mathematics", "Linear Algebra", "Calculus", "Statistics", "Mathematical Modeling"],
+      duration: "Sep 2024 - Dec 2024",
+      description: "Developed strategic communication skills through presentations, writing assignments, and group projects.",
+      skills: ["Strategic Communication", "Collaborative Engagement", "Presentation Skills", "Professional Writing"],
       highlights: [
-        "Solved complex mathematical proofs and theorems",
-        "Applied mathematical concepts to real-world computing problems",
-        "Completed research project on optimization algorithms",
-        "Presented findings at student mathematics symposium"
+        "Craft strategic, audience-tailored presentations to effectively communicate complex technical concepts",
+        "Enhance professional writing skills through assignments like reports and proposals for tech-focused audiences",
+        "Develop persuasive communication techniques to influence stakeholders and drive project alignment.",
+        "Practice delivering clear, impactful messages, bridging the gap between technical teams and non-technical stakeholders."
       ],
       category: "Mathematics"
     },
     {
-      title: "Database Design & Management",
+      title: "MG-GY 6073A Marketing",
       institution: "New York University",
-      duration: "Feb 2022 - May 2022",
-      description: "Comprehensive study of database systems, design principles, and management techniques. Covered both relational and NoSQL databases with hands-on projects.",
-      skills: ["SQL", "Database Design", "PostgreSQL", "MongoDB", "Data Modeling", "Query Optimization"],
+      duration: "Feb 2025 - May 2025",
+      description: "Explored marketing strategy through 16 simulations, mastering market analysis, customer segmentation, and the 4Ps.",
+      skills: ["Data Analysis for Market Insights", "Ethical Marketing and Sustainability", "Decision-Making", "Critical Thinking", "Team Collaboration"],
       highlights: [
-        "Designed and implemented a complete e-commerce database",
-        "Optimized complex queries for performance improvements",
-        "Worked with both relational and document databases",
-        "Created comprehensive database documentation"
+        "Master customer segmentation and targeting through 16 industry-specific marketing simulations, including fitness tech and automotive",
+        "Develop expertise in applying the 4Ps (Product, Price, Place, Promotion) to create effective, data-driven marketing strategies.",
+        "Analyze market dynamics and macro-environmental factors to adapt campaigns for competitive advantage",
+        "Enhance collaborative skills by designing and presenting marketing plans in team-based simulation environments"
       ],
       category: "Computer Science"
     },
     {
-      title: "Machine Learning Fundamentals",
+      title: "MG-GY 9753 FinTech",
       institution: "New York University",
-      duration: "Jun 2022 - Sep 2022",
-      description: "Introduction to machine learning concepts, algorithms, and practical applications. Hands-on experience with popular ML libraries and frameworks.",
-      skills: ["Python", "Scikit-learn", "TensorFlow", "Data Analysis", "Statistical Learning", "Neural Networks"],
+      duration: "Jan 2025 - May 2025",
+      description: "Studied FinTech innovations, including blockchain, AI in finance, and regulatory compliance, through case studies and a final project.",
+      skills: ["Blockchain and AI Application", "Regulatory Analysis", "Project Development:", "Data Analysis", "Case Study Analysis"],
       highlights: [
-        "Built predictive models for real-world datasets",
-        "Implemented machine learning algorithms from scratch",
-        "Completed capstone project on image classification",
-        "Presented research findings at ML conference"
+        "Explore the application of blockchain technology in enhancing financial security and transaction efficiency.",
+        "Analyze the role of artificial intelligence in optimizing financial forecasting and customer personalization",
+        "Develop a final project showcasing reasearch about the company Tether.",
+        "Investigate the impact of fintech innovations on traditional banking models and market disruption"
       ],
       category: "Computer Science"
     },
     {
-      title: "Software Engineering Principles",
+      title: "MG-GY - 7953 Global Innovation",
       institution: "New York University",
-      duration: "Oct 2022 - Jan 2023",
-      description: "Software development lifecycle, design patterns, testing methodologies, and project management. Emphasis on building scalable and maintainable software systems.",
-      skills: ["Software Architecture", "Design Patterns", "Testing", "Agile Development", "Version Control", "CI/CD"],
+      duration: "Sept 20224 - Dec 2024",
+      description: "This course explores how organizations foster innovation worldwide, delving into strategies, ecosystems, and sustainability through case studies, presentations, and a Ideathon.",
+      skills: ["Innovation Process Analysis", "Critical Thinking", "Sector and Firm Analysis", "Global Strategy Development"],
       highlights: [
-        "Led a team of 6 developers on a major project",
-        "Implemented comprehensive testing strategies",
-        "Designed scalable software architecture",
-        "Delivered project ahead of schedule with zero critical bugs"
+        "Analyze global innovation strategies and competitive landscapes through sector and firm case studies",
+        "Explore the impact of geographic, economic, and societal factors on innovation in emerging markets and ecosystems",
+        "Explore disruptive market dynamics and innovation strategies, including Box 3 frameworks",
+        "Investigate the influence of sustainability and green technologies on global innovation"
       ],
       category: "Engineering"
     }
@@ -103,7 +103,7 @@ const Index = () => {
               NYU courses studied
             </h1>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed font-light">
-              Comprehensive courses and programs that have shaped my knowledge and expertise. 
+              Comprehensive courses that have shaped my knowledge and expertise. 
               Each course represents a milestone in my continuous learning journey.
             </p>
             <div className="flex items-center justify-center space-x-8 text-sm text-gray-500">
@@ -111,10 +111,10 @@ const Index = () => {
                 <BookText className="h-5 w-5 mr-2" />
                 <span className="font-light">{courses.length} Courses Completed</span>
               </div>
-              <div className="flex items-center">
+              {/* <div className="flex items-center">
                 <span className="h-5 w-5 mr-2 bg-green-400 rounded-full flex items-center justify-center text-white text-xs">✓</span>
                 <span className="font-light">All Certifications Earned</span>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
