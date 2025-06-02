@@ -120,13 +120,12 @@ const Index = () => {
         </div>
       </section>
 
-      Courses Section
+      
       <section id="courses" className="py-16 px-6">
         <div className="container mx-auto">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-light text-gray-900 mb-4">Course Portfolio</h2>
+            <h2 className="text-3xl font-light text-gray-900 mb-4"></h2>
             <p className="text-gray-600 max-w-2xl mx-auto font-light">
-              Detailed overview of each course, including key learning outcomes, skills acquired, and project highlights
             </p>
           </div>
 
