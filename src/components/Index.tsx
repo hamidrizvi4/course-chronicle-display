@@ -12,10 +12,10 @@ const Index = () => {
       description: "Applied Agile and traditional methodologies to lead simulated projects, enhancing skills in stakeholder management and risk assessment.",
       skills: ["Project Planning and Execution", "Risk and Change Management", "Agile Project Management(Scrum, Jira)", "Stakeholder Management", "Documentation"],
       highlights: [
-        "Led a team of 6 developers on a major project",
+        "Led a team of 6 developers on a major project.",
         "Master Agile and traditional project management frameworks to execute projects with precision.",
-        "Gain proficiency in applying Agile and Waterfall methodologies to manage complex projects using Gantt charts and Work Breakdown Structures (WBS)",
-        "Build expertise in risk analysis and stakeholder engagement through Project Initiation Documentation (PID) and technical frameworks"
+        "Gain proficiency in applying Agile and Waterfall methodologies to manage complex projects using Gantt charts and Work Breakdown Structures (WBS).",
+        "Build expertise in risk analysis and stakeholder engagement through Project Initiation Documentation (PID) and technical frameworks."
       ],
       category: "Computer Science"
     },
@@ -27,9 +27,9 @@ const Index = () => {
       skills: ["Industry Analysis", "Strategic Thinking", "Critical Thinking", "Research and Synthesis:"],
       highlights: [
         "Analyze industry dynamics and competitive landscapes, focusing on economic trends in the $1.8T wellness market.",
-        "Develop strategic business models by evaluating macro-environmental factors and their impact on tech industries",
-        "Conduct in-depth research on consumer electronics, as demonstrated by a project on wellness market innovations",
-        "Synthesize findings to propose actionable strategies, enhancing critical thinking for market-driven decision-making"
+        "Develop strategic business models by evaluating macro-environmental factors and their impact on tech industries.",
+        "Conduct in-depth research on consumer electronics, as demonstrated by a project on wellness market innovations.",
+        "Synthesize findings to propose actionable strategies, enhancing critical thinking for market-driven decision-making."
       ],
       category: "Computer Science"
     },
@@ -40,8 +40,8 @@ const Index = () => {
       description: "Developed strategic communication skills through presentations, writing assignments, and group projects.",
       skills: ["Strategic Communication", "Collaborative Engagement", "Presentation Skills", "Professional Writing"],
       highlights: [
-        "Craft strategic, audience-tailored presentations to effectively communicate complex technical concepts",
-        "Enhance professional writing skills through assignments like reports and proposals for tech-focused audiences",
+        "Craft strategic, audience-tailored presentations to effectively communicate complex technical concepts.",
+        "Enhance professional writing skills through assignments like reports and proposals for tech-focused audiences.",
         "Develop persuasive communication techniques to influence stakeholders and drive project alignment.",
         "Practice delivering clear, impactful messages, bridging the gap between technical teams and non-technical stakeholders."
       ],
@@ -54,10 +54,10 @@ const Index = () => {
       description: "Explored marketing strategy through 16 simulations, mastering market analysis, customer segmentation, and the 4Ps.",
       skills: ["Data Analysis for Market Insights", "Ethical Marketing and Sustainability", "Decision-Making", "Critical Thinking", "Team Collaboration"],
       highlights: [
-        "Master customer segmentation and targeting through 16 industry-specific marketing simulations, including fitness tech and automotive",
+        "Master customer segmentation and targeting through 16 industry-specific marketing simulations, including fitness tech and automotive.",
         "Develop expertise in applying the 4Ps (Product, Price, Place, Promotion) to create effective, data-driven marketing strategies.",
-        "Analyze market dynamics and macro-environmental factors to adapt campaigns for competitive advantage",
-        "Enhance collaborative skills by designing and presenting marketing plans in team-based simulation environments"
+        "Analyze market dynamics and macro-environmental factors to adapt campaigns for competitive advantage.",
+        "Enhance collaborative skills by designing and presenting marketing plans in team-based simulation environments."
       ],
       category: "Computer Science"
     },
@@ -69,9 +69,9 @@ const Index = () => {
       skills: ["Blockchain and AI Application", "Regulatory Analysis", "Project Development:", "Data Analysis", "Case Study Analysis"],
       highlights: [
         "Explore the application of blockchain technology in enhancing financial security and transaction efficiency.",
-        "Analyze the role of artificial intelligence in optimizing financial forecasting and customer personalization",
+        "Analyze the role of artificial intelligence in optimizing financial forecasting and customer personalization.",
         "Develop a final project showcasing reasearch about the company Tether.",
-        "Investigate the impact of fintech innovations on traditional banking models and market disruption"
+        "Investigate the impact of fintech innovations on traditional banking models and market disruption."
       ],
       category: "Computer Science"
     },
@@ -82,10 +82,10 @@ const Index = () => {
       description: "This course explores how organizations foster innovation worldwide, delving into strategies, ecosystems, and sustainability through case studies, presentations, and a Ideathon.",
       skills: ["Innovation Process Analysis", "Critical Thinking", "Sector and Firm Analysis", "Global Strategy Development"],
       highlights: [
-        "Analyze global innovation strategies and competitive landscapes through sector and firm case studies",
-        "Explore the impact of geographic, economic, and societal factors on innovation in emerging markets and ecosystems",
-        "Explore disruptive market dynamics and innovation strategies, including Box 3 frameworks",
-        "Investigate the influence of sustainability and green technologies on global innovation"
+        "Analyze global innovation strategies and competitive landscapes through sector and firm case studies.",
+        "Explore the impact of geographic, economic, and societal factors on innovation in emerging markets and ecosystems.",
+        "Explore disruptive market dynamics and innovation strategies, including Box 3 frameworks.",
+        "Investigate the influence of sustainability and green technologies on global innovation."
       ],
       category: "Engineering"
     }
