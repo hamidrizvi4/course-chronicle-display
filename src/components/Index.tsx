@@ -13,7 +13,7 @@ const Index = () => {
       skills: ["Project Planning and Execution", "Risk and Change Management", "Agile Project Management(Scrum, Jira)", "Stakeholder Management", "Documentation"],
       highlights: [
         "Led a team of 6 developers on a major project",
-        "Master Agile and traditional project management frameworks to execute projects with precision.",
+        "Master Agile and traditional project management frameworks to execute simulated projects with precision.",
         "Gain proficiency in applying Agile and Waterfall methodologies to manage complex simulated projects using Gantt charts and Work Breakdown Structures (WBS)",
         "Build expertise in risk analysis and stakeholder engagement through Project Initiation Documentation (PID) and technical frameworks"
       ],
