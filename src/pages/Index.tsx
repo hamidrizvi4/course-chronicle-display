@@ -8,7 +8,7 @@ const Index = () => {
   const courses = [
     {
       title: "Computer Science Fundamentals",
-      institution: "University of Technology",
+      institution: "New York University",
       duration: "Sep 2020 - Dec 2020",
       description: "Comprehensive introduction to computer science covering programming fundamentals, data structures, and algorithmic thinking. This course laid the foundation for my technical journey.",
       skills: ["Python Programming", "Data Structures", "Algorithms", "Problem Solving", "Object-Oriented Programming"],
@@ -23,7 +23,7 @@ const Index = () => {
     },
     {
       title: "Web Development Bootcamp",
-      institution: "Tech Academy",
+      institution: "New York University",
       duration: "Jan 2021 - Jun 2021",
       description: "Intensive full-stack web development program covering modern web technologies, responsive design, and deployment strategies. Focused on practical, industry-relevant skills.",
       skills: ["HTML5", "CSS3", "JavaScript", "React", "Node.js", "MongoDB", "Git"],
@@ -38,7 +38,7 @@ const Index = () => {
     },
     {
       title: "Advanced Mathematics for Computing",
-      institution: "Institute of Mathematical Sciences",
+      institution: "New York University",
       duration: "Sep 2021 - Dec 2021",
       description: "Advanced mathematical concepts essential for computer science including discrete mathematics, linear algebra, and calculus applications in computing.",
       skills: ["Discrete Mathematics", "Linear Algebra", "Calculus", "Statistics", "Mathematical Modeling"],
@@ -53,7 +53,7 @@ const Index = () => {
     },
     {
       title: "Database Design & Management",
-      institution: "Data Science Institute",
+      institution: "New York University",
       duration: "Feb 2022 - May 2022",
       description: "Comprehensive study of database systems, design principles, and management techniques. Covered both relational and NoSQL databases with hands-on projects.",
       skills: ["SQL", "Database Design", "PostgreSQL", "MongoDB", "Data Modeling", "Query Optimization"],
@@ -68,7 +68,7 @@ const Index = () => {
     },
     {
       title: "Machine Learning Fundamentals",
-      institution: "AI Research Center",
+      institution: "New York University",
       duration: "Jun 2022 - Sep 2022",
       description: "Introduction to machine learning concepts, algorithms, and practical applications. Hands-on experience with popular ML libraries and frameworks.",
       skills: ["Python", "Scikit-learn", "TensorFlow", "Data Analysis", "Statistical Learning", "Neural Networks"],
@@ -83,7 +83,7 @@ const Index = () => {
     },
     {
       title: "Software Engineering Principles",
-      institution: "Engineering College",
+      institution: "New York University",
       duration: "Oct 2022 - Jan 2023",
       description: "Software development lifecycle, design patterns, testing methodologies, and project management. Emphasis on building scalable and maintainable software systems.",
       skills: ["Software Architecture", "Design Patterns", "Testing", "Agile Development", "Version Control", "CI/CD"],
@@ -99,28 +99,28 @@ const Index = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50">
+    <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-100">
       <Header />
       
       {/* Hero Section */}
       <section className="pt-24 pb-16 px-6">
         <div className="container mx-auto text-center">
           <div className="max-w-4xl mx-auto">
-            <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-              My <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Educational</span> Journey
+            <h1 className="text-5xl md:text-6xl font-light text-gray-900 mb-6 leading-tight">
+              NYU courses studied
             </h1>
-            <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              Explore the comprehensive courses and programs that have shaped my knowledge and expertise. 
+            <p className="text-xl text-gray-600 mb-8 leading-relaxed font-light">
+              Comprehensive courses and programs that have shaped my knowledge and expertise. 
               Each course represents a milestone in my continuous learning journey.
             </p>
             <div className="flex items-center justify-center space-x-8 text-sm text-gray-500">
               <div className="flex items-center">
                 <BookText className="h-5 w-5 mr-2" />
-                {courses.length} Courses Completed
+                <span className="font-light">{courses.length} Courses Completed</span>
               </div>
               <div className="flex items-center">
-                <span className="h-5 w-5 mr-2 bg-gradient-to-r from-green-400 to-green-600 rounded-full flex items-center justify-center text-white text-xs">✓</span>
-                All Certifications Earned
+                <span className="h-5 w-5 mr-2 bg-green-400 rounded-full flex items-center justify-center text-white text-xs">✓</span>
+                <span className="font-light">All Certifications Earned</span>
               </div>
             </div>
           </div>
@@ -131,8 +131,8 @@ const Index = () => {
       <section id="courses" className="py-16 px-6">
         <div className="container mx-auto">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">Course Portfolio</h2>
-            <p className="text-gray-600 max-w-2xl mx-auto">
+            <h2 className="text-3xl font-light text-gray-900 mb-4">Course Portfolio</h2>
+            <p className="text-gray-600 max-w-2xl mx-auto font-light">
               Detailed overview of each course, including key learning outcomes, skills acquired, and project highlights
             </p>
           </div>
@@ -148,34 +148,34 @@ const Index = () => {
       <SkillsSection />
 
       {/* Contact Section */}
-      <section id="contact" className="py-16 bg-gradient-to-r from-blue-600 to-purple-600 text-white">
+      <section id="contact" className="py-16 bg-white/10 backdrop-blur-md border-t border-white/20">
         <div className="container mx-auto px-6 text-center">
-          <h2 className="text-3xl font-bold mb-4">Let's Connect</h2>
-          <p className="text-blue-100 mb-8 max-w-2xl mx-auto">
+          <h2 className="text-3xl font-light text-gray-900 mb-4">Let's Connect</h2>
+          <p className="text-gray-600 mb-8 max-w-2xl mx-auto font-light">
             Interested in discussing my educational background or potential opportunities? I'd love to hear from you.
           </p>
           
           <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-8">
-            <div className="flex items-center">
+            <div className="flex items-center text-gray-700">
               <Mail className="h-5 w-5 mr-2" />
-              <span>your.email@example.com</span>
+              <span className="font-light">your.email@example.com</span>
             </div>
-            <div className="flex items-center">
+            <div className="flex items-center text-gray-700">
               <Phone className="h-5 w-5 mr-2" />
-              <span>+1 (555) 123-4567</span>
+              <span className="font-light">+1 (555) 123-4567</span>
             </div>
-            <div className="flex items-center">
+            <div className="flex items-center text-gray-700">
               <MapPin className="h-5 w-5 mr-2" />
-              <span>Your City, Country</span>
+              <span className="font-light">New York, NY</span>
             </div>
           </div>
         </div>
       </section>
 
       {/* Footer */}
-      <footer className="bg-gray-900 text-gray-400 py-8 px-6">
+      <footer className="bg-white/10 backdrop-blur-md text-gray-600 py-8 px-6 border-t border-white/20">
         <div className="container mx-auto text-center">
-          <p>&copy; 2024 My Learning Journey. Built with passion for education and growth.</p>
+          <p className="font-light">&copy; 2024 NYU Learning Journey. Built with passion for education and growth.</p>
         </div>
       </footer>
     </div>
